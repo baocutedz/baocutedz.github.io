@@ -37,9 +37,13 @@ main article {
     
 }
 nav a {
-    text-decoration: none;
+   
     color: #000000;
 }
 
 
 .Profile{display: flex;justify-content: flex-end;}
+table { 
+    color: rgb(13, 12, 12);
+    background-color: yellow;
+}
