@@ -47,3 +47,8 @@ table {
     color: rgb(13, 12, 12);
     background-color: yellow;
 }
+article img { 
+    width: 150px;
+    height: 150px;
+    margin: 0px;
+}
